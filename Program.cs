@@ -3,7 +3,7 @@
 
 // N = 5 -> "5, 4, 3, 2, 1"
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
-Console.WriteLine("dfjsl:");
+Console.WriteLine("Введите число:");
 int N=Convert.ToInt32(Console.ReadLine());
 int M=1;
 void Natural(int N, int M)
